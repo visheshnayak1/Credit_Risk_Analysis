@@ -1,1 +1,1 @@
-# ML-MARVELS-CREDIT-RISK-ANALYSIS
+Credit-Risk-Prediction
